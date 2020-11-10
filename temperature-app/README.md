@@ -15,3 +15,4 @@ Application will respond to GET requests to http://localhost:8080/
 ## Task
 
 You need to build docker image with the application and launch it as a container.
+Ensure that running application is responding.
